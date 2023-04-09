@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aliceblue;
+  font-family: arial;
+}
+
+.chat-text {
+  background-color: black;
+  color: white;
+  width: 220px;
+  padding: 5px;
+}
+
+.chat-list {
+  height: 220px;
+  width: 220px;
+  overflow-y: scroll;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  display: flex;
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.chat-list img {
+  border-radius: 50%;
+  margin-right: 2px;
+  border: 0.1px solid black;
+}
+
+.chat-list p {
+  font-size: 15px;
+  border: 0.1px solid;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.chat-send {
+  background-color: white;
+  width: 220px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#botao {
+  color: white;
+  background-color: black;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input {
+  outline: none;
+  background-color: white;
+  border: none;
+}
+
+form {
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 0.1px black solid;
+  border-radius: 5px;
+}
+
+.linha {
+  border: 0.1px black solid;
+}
