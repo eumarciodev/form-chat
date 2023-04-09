@@ -1,4 +1,4 @@
-# form-chat
+# Form Chat
 
 <img src="/form.PNG">
 
@@ -24,4 +24,4 @@ Contribuições são bem-vindas! Se você encontrou algum problema no projeto ou
 <p>Marcio (MoscouDev)</p>
 <a href="https://www.instagram.com/eumaarcio/"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968776.png" width="15px"> Instagram</a>
 <br>
-<a href="moscoudev21@gmail.com"> <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="15px"> Gmail</a>
+<a href="mailto:moscoudev21@gmail.com"> <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="15px"> Gmail</a>
